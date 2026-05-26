@@ -24,6 +24,11 @@ python -m http.server 8000
 - `style.css`：界面样式
 - `main.js`：游戏循环、碰撞、敌人 AI、胜负逻辑
 
+## 在线试玩
+部署完成后可通过 GitHub Pages 访问：
+
+- https://zhiyu-jy.github.io/tank-battle-html/
+
 ## 后续可扩展方向
 - 多关卡地图
 - 音效与爆炸动画
